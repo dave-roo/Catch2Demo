@@ -1,4 +1,4 @@
-#include "catch.hpp"
+
 #include <iostream>
 
 int main()
